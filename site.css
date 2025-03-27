@@ -1,0 +1,44 @@
+#container{
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+h1{
+    background-color: darkgreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    border: 1px solid #D6A800;
+    padding: 10px; 
+}
+h2{
+    background-color: rgb(176, 150, 4);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    border: 1px solid #D6A800;
+    padding: 10px;
+}
+h3{
+    background-color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    border: 1px solid #D6A800;
+    padding: 10px;
+}
+h4{
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    border: 1px solid #D6A800;
+    padding: 10px;
+}
+a{
+    color:rgb(0, 0, 0);
+    text-decoration: none;}
+a:hover{
+    color: cyan;}
+a:visited{
+    color: hotpink;}
