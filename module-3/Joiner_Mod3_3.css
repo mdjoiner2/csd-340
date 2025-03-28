@@ -1,0 +1,65 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.left, .right {
+    width: 45%;
+    padding: 10px;
+}
+
+.left {
+    float: left;
+    border: 1px solid red;
+    border-radius: 15px;
+}
+
+.left ol {
+    list-style-position: inside;
+    padding: 10px;
+}
+
+.right {
+    float: right;
+    border: 1px dashed red;
+    border-radius: 15px;
+}
+
+.right ul {
+    list-style: upper-roman inside;
+    padding: 10px;
+}
+
+h3 {
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+li {
+    font-weight: 300;
+}
+
+.bottom {
+    width: 100%;
+    margin-top: 60%;
+    float: right;
+    margin-bottom: 20px;
+    text-align: right;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+
+
+
+
