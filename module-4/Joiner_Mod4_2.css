@@ -1,0 +1,43 @@
+#image-gallery{
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin-top: 10%;
+}
+h1{
+    text-align: center;
+    color: rgba(6, 96, 11, 0.8);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3{
+    text-align: center;
+    color: rgba(38, 128, 0, 0.8); 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+figure{
+    text-align: center;
+    
+}
+figcaption{
+    font-style: italic;
+    font-size: .75em;
+    color: rgba(0, 0, 0, 0.8);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#first{
+    border: 2px solid red;
+}
+#second{
+    border: 2px solid red;
+}
+#third{
+    border: 2px solid red;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.bottom{
+    position: fixed;
+    bottom: 1em;
+    right: 1em;
+}
